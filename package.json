@@ -1,0 +1,12 @@
+{
+  "name": "project-root",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix starter run dev --",
+    "start": "npm --prefix starter run start --",
+    "build": "npm --prefix starter run build",
+    "test": "npm --prefix starter run test",
+    "lint": "npm --prefix starter run lint"
+  }
+}
